@@ -1,0 +1,26 @@
+This is a token file to point out that each cpanfile module produces a
+tree of dependencies that may be really long and complicated.
+
+Pointing out changes to the cpanfile for LedgerSMB itself is great help.
+So is pointing out any CPAN module that gets added to base Perl in OpenBSD.
+
+The best way to deal with these dependencies is to start with the new ones
+farthest out from the module trying to be brought in.
+This allows port reviewers to build all or some of these dependencies.
+
+It is often best to submit several ports of these together.
+
+Please be sure to say that these ports are for LedgerSMB!
+Ask for comments or help as needed. Please make the message short unless
+there are issues to bring up.
+
+Look at messages on ports@openbsd.org to see how the traditional method is.
+
+Port reviewers are usually very busy or have no interest in these new ports.
+
+After a few weeks, please send a simple message on the same thread with a
+"Ping".
+
+Thanks.
+----------------------------------------------------------------------------
+

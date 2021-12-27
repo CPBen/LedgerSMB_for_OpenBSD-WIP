@@ -1,0 +1,7 @@
+This will be a list of ports that are already in the tree but need to
+be updated. This may mean adding new dependencies.
+Updating is usually very easy.
+
+Sometimes ports are tied into many other existing ports in general that
+need special handling because they affect something really complicated.
+Asking for help on ports@openbsd.org for advice is appropriate.

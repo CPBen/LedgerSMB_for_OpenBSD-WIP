@@ -1,0 +1,81 @@
+12/03/2021
+
+As an update to what is below, I did not take any further action below
+as I wanted to, because we all caught the flu for several weeks.
+
+The good news now is that I was finally able to find a promo price on a
+server I could run OpenBSD -current on.
+So I can now re-start this work again. Using the lessons I learned below,
+I am hoping that things move forward successfully this time.
+Below is an email I sent months ago to ports@openbsd.org
+
+-------------------------------------
+Hello,
+I wanted to relate some of my adventures and misadventures with trying
+to bring in LedgerSMB as a new port into OpenBSD.
+LedgerSMB is accounting for small to medium sized businesses.
+The project is under very active development for several years now.
+
+LedgerSMB requires quite a lot of new Perl modules, with some fairly
+long lists of new dependencies for each.
+
+My first advice was to just start with the core modules needed first.
+Then to bring in LedgerSMB itself or optionally after the next step.
+Then to bring in the modules needed for optional features next.
+Finally to bring in the development modules needed (optionally).
+
+The Porter's Handbook is very helpful, but it's completely lacking in
+any advice on how to deal with a pretty large set of new ports as a single
+person. I found this project daunting.
+With so many new modules needed, including many that required PostgreSQL
+testing, even a good set of starting directions to aim at was hard.
+
+I did learn that sending multiple related ports in a single email was best.
+These need to be something a reviewer can reasonably look at in a single
+effort.
+As-in within a dependency chain. I'm not entirely sure how many is best.
+Some of the new Perl ports were very simple, others were quite complex with
+the PostgreSQL testing needed.
+
+One of the most frustrating problems I ran into was to bring in a new core
+module that had a huge chain of new dependencies. Such as:
+
+                            Core::Thingy
+														   |
+														/ etc \
+                           /       \
+													/         \
+										ThingA         ThingF
+										/                 \
+									ThingC	           ThingG  --> Thing4 --> ThingOther----etc
+									/                                                /
+								ThingB ----------------> Thing92----ThingOP     Thing77---etc
+								/
+							etc, etc
+
+So, I found bringing in Core::Thingy a problem I didn't see a reasonable way to
+accomplish.
+Who wants to review 12 new ports a once just to bring in p5-Core-Thingy?
+Submitting such a ridiculous email chain was preposterous!
+
+I never did get any advice on this aspect of the problem. Depressing.
+
+However, I did finally think of an answer a few weeks ago. I waited until ports
+unlocked before sending this email.
+
+I looked at this problem backwards, instead of trying to get Core::Thingy in, the
+solution seems to be to grab reasonable chunks of new ports in the dependency chain
+submitted first. Work backwards from the outside inwards until everything that
+Core::Thingy needed was committed and then submit that.
+
+I would like to work this sort of process out with the port reviewers advice and
+submit a diff to the Handbook to help porters to actually take on projects like
+this one.
+
+I also received some other excellent advice that would be worth getting into the
+handbook also, even for just "single ports" with long lists of modules like vim-spell.
+
+-- 
+Thank you,
+Chris Bennett
+
