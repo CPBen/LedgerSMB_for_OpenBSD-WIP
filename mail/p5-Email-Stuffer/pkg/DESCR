@@ -1,1 +1,2 @@
-A more casual approach to creating and sending Email:: emails
+Email::Stuffer is a module used to build emails and send them in a single
+statement. It is implemented on top of the light and tolerable Email:: modules.
