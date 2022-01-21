@@ -1,0 +1,6 @@
+Many online services that are centered around CPAN attempt to associate
+multiple uploads by extracting a distribution name from the filename of
+the upload. For most distributions this is easy as they have used
+ExtUtils::MakeMaker or Module::Build to create the distribution, which
+results in a uniform name. But sadly not all uploads are created in this
+way.

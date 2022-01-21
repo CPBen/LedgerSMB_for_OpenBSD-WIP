@@ -1,0 +1,5 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Unicode/
+${P5SITE}/Unicode/Regex/
+${P5SITE}/Unicode/Regex/Set.pm
+@man man/man3p/Unicode::Regex::Set.3p

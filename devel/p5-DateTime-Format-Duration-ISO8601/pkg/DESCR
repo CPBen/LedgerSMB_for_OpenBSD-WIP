@@ -1,0 +1,4 @@
+This module formats and parses ISO 8601 durations to and from
+DateTime::Duration instances.
+
+ISO 8601 intervals are not supported.

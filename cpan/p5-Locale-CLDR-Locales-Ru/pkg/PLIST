@@ -1,0 +1,18 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/Ru/
+${P5SITE}/Locale/CLDR/Locales/Ru.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/
+${P5SITE}/Locale/CLDR/Locales/Ru/Any.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/By.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/Kg.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/Kz.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/Md.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/Ru.pm
+${P5SITE}/Locale/CLDR/Locales/Ru/Any/Ua.pm
+@man man/man3p/Locale::CLDR::Locales::Ru.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::By.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::Kg.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::Kz.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::Md.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::Ru.3p
+@man man/man3p/Locale::CLDR::Locales::Ru::Any::Ua.3p

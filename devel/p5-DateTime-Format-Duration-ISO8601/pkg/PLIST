@@ -1,0 +1,5 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/DateTime/Format/
+${P5SITE}/DateTime/Format/Duration/
+${P5SITE}/DateTime/Format/Duration/ISO8601.pm
+@man man/man3p/DateTime::Format::Duration::ISO8601.3p

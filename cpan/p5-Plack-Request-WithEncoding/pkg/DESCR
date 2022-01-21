@@ -1,0 +1,1 @@
+Subclass of Plack::Request which supports encoded requests.

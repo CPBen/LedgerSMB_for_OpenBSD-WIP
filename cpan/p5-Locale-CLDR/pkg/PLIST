@@ -1,0 +1,28 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/
+${P5SITE}/Locale/CLDR/
+${P5SITE}/Locale/CLDR.pm
+${P5SITE}/Locale/CLDR/CalendarPreferences.pm
+${P5SITE}/Locale/CLDR/Collator.pm
+${P5SITE}/Locale/CLDR/CollatorBase.pm
+${P5SITE}/Locale/CLDR/Currencies.pm
+${P5SITE}/Locale/CLDR/EraBoundries.pm
+${P5SITE}/Locale/CLDR/LikelySubtags.pm
+${P5SITE}/Locale/CLDR/Locales/
+${P5SITE}/Locale/CLDR/Locales/En/
+${P5SITE}/Locale/CLDR/Locales/En.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/
+${P5SITE}/Locale/CLDR/Locales/En/Any.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Us.pm
+${P5SITE}/Locale/CLDR/Locales/Root.pm
+${P5SITE}/Locale/CLDR/MeasurementSystem.pm
+${P5SITE}/Locale/CLDR/NumberFormatter.pm
+${P5SITE}/Locale/CLDR/NumberingSystems.pm
+${P5SITE}/Locale/CLDR/Plurals.pm
+${P5SITE}/Locale/CLDR/RegionContainment.pm
+${P5SITE}/Locale/CLDR/ValidCodes.pm
+${P5SITE}/Locale/CLDR/WeekData.pm
+@man man/man3p/Locale::CLDR.3p
+@man man/man3p/Locale::CLDR::Locales::En.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Us.3p
+@man man/man3p/Locale::CLDR::Locales::Root.3p

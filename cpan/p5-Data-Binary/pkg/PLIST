@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Data/
+${P5SITE}/Data/Binary.pm
+@man man/man3p/Data::Binary.3p

@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Plack/Builder/
+${P5SITE}/Plack/Builder/Conditionals.pm
+@man man/man3p/Plack::Builder::Conditionals.3p

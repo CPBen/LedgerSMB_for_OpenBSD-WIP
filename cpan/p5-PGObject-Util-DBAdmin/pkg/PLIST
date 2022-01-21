@@ -1,0 +1,5 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/PGObject/
+${P5SITE}/PGObject/Util/
+${P5SITE}/PGObject/Util/DBAdmin.pm
+@man man/man3p/PGObject::Util::DBAdmin.3p

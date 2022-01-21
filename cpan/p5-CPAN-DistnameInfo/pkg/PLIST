@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/CPAN/
+${P5SITE}/CPAN/DistnameInfo.pm
+@man man/man3p/CPAN::DistnameInfo.3p

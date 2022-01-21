@@ -1,0 +1,215 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/En.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/001.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/150.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ag.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ai.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/As.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/At.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Au.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bb.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Be.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bi.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bs.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bw.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Bz.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ca.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Cc.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ch.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ck.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Cm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Cx.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Cy.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/De.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Dg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Dk.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Dm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Er.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Fi.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Fj.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Fk.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Fm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gb.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gd.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gh.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gi.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gu.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Gy.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Hk.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ie.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Il.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Im.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/In.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Io.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Je.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Jm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ke.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ki.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Kn.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ky.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Lc.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Lr.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ls.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mh.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mo.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mp.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ms.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mt.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mu.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Mw.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/My.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Na.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Nf.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ng.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Nl.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Nr.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Nu.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Nz.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Pg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ph.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Pk.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Pn.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Pr.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Pw.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Rw.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sb.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sc.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sd.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Se.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sh.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Si.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sl.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ss.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sx.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Sz.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Tc.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Tk.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/To.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Tt.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Tv.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Tz.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ug.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Um.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Us/
+${P5SITE}/Locale/CLDR/Locales/En/Any/Us.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Us/Posix.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Vc.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Vg.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Vi.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Vu.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Ws.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Za.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Zm.pm
+${P5SITE}/Locale/CLDR/Locales/En/Any/Zw.pm
+@man man/man3p/Locale::CLDR::Locales::En.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::001.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::150.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ag.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ai.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::As.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::At.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Au.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bb.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Be.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bi.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bs.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bw.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Bz.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ca.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Cc.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ch.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ck.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Cm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Cx.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Cy.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::De.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Dg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Dk.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Dm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Er.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Fi.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Fj.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Fk.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Fm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gb.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gd.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gh.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gi.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gu.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Gy.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Hk.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ie.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Il.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Im.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::In.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Io.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Je.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Jm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ke.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ki.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Kn.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ky.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Lc.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Lr.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ls.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mh.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mo.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mp.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ms.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mt.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mu.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Mw.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::My.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Na.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Nf.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ng.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Nl.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Nr.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Nu.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Nz.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Pg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ph.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Pk.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Pn.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Pr.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Pw.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Rw.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sb.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sc.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sd.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Se.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sh.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Si.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sl.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ss.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sx.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Sz.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Tc.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Tk.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::To.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Tt.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Tv.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Tz.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ug.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Um.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Us.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Us::Posix.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Vc.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Vg.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Vi.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Vu.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Ws.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Za.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Zm.3p
+@man man/man3p/Locale::CLDR::Locales::En::Any::Zw.3p

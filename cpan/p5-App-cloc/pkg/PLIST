@@ -1,0 +1,6 @@
+@comment $OpenBSD: PLIST,v$
+bin/cloc
+${P5SITE}/App/
+${P5SITE}/App/cloc.pm
+@man man/man1/cloc.1
+@man man/man3p/App::cloc.3p

@@ -1,0 +1,30 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/Pt/
+${P5SITE}/Locale/CLDR/Locales/Pt.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/
+${P5SITE}/Locale/CLDR/Locales/Pt/Any.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Ao.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Br.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Ch.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Cv.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Gq.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Gw.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Lu.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Mo.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Mz.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Pt.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/St.pm
+${P5SITE}/Locale/CLDR/Locales/Pt/Any/Tl.pm
+@man man/man3p/Locale::CLDR::Locales::Pt.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Ao.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Br.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Ch.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Cv.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Gq.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Gw.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Lu.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Mo.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Mz.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Pt.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::St.3p
+@man man/man3p/Locale::CLDR::Locales::Pt::Any::Tl.3p

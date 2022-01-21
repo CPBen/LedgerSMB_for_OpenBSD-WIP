@@ -1,0 +1,4 @@
+Count, or compute differences of, physical lines of source code in the given
+files (may be archives such as compressed tarballs or zip files, or git commit
+hashes or branch names) and/or recursively below the given directories. It is
+written entirely in Perl, using only modules from the standard distribution.

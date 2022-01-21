@@ -1,0 +1,2 @@
+This module is a faster but simpler version of Regexp::Assemble or
+Regexp::Optimizer. It builds a trie-ized regexp as above.

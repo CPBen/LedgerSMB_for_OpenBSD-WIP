@@ -1,0 +1,62 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/Ar/
+${P5SITE}/Locale/CLDR/Locales/Ar.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/
+${P5SITE}/Locale/CLDR/Locales/Ar/Any.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/001.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ae.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Bh.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Dj.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Dz.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Eg.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Eh.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Er.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Il.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Iq.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Jo.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Km.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Kw.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Lb.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ly.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ma.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Mr.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Om.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ps.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Qa.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Sa.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Sd.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/So.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ss.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Sy.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Td.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Tn.pm
+${P5SITE}/Locale/CLDR/Locales/Ar/Any/Ye.pm
+@man man/man3p/Locale::CLDR::Locales::Ar.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::001.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ae.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Bh.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Dj.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Dz.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Eg.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Eh.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Er.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Il.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Iq.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Jo.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Km.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Kw.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Lb.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ly.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ma.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Mr.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Om.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ps.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Qa.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Sa.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Sd.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::So.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ss.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Sy.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Td.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Tn.3p
+@man man/man3p/Locale::CLDR::Locales::Ar::Any::Ye.3p

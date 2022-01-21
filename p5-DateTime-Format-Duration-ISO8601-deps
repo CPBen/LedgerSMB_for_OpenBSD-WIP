@@ -1,0 +1,16 @@
+Test
+p5-Pod-Coverage-TrustPod Pod::Coverage::TrustPod
+DateTime::Format::ISO8601::Format
+devel/p5-Test-Pod-Coverage
+devel/p5-Test-Pod
+devel/p5-Test-Perl-Critic
+
+Build
+devel/p5-DateTime
+
+
+
+Run
+
+
+

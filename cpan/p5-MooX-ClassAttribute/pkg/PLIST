@@ -1,0 +1,11 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Method/Generate/ClassAccessor.pm
+${P5SITE}/MooX/
+${P5SITE}/MooX/CaptainHook.pm
+${P5SITE}/MooX/ClassAttribute/
+${P5SITE}/MooX/ClassAttribute.pm
+${P5SITE}/MooX/ClassAttribute/HandleMoose.pm
+@man man/man3p/Method::Generate::ClassAccessor.3p
+@man man/man3p/MooX::CaptainHook.3p
+@man man/man3p/MooX::ClassAttribute.3p
+@man man/man3p/MooX::ClassAttribute::HandleMoose.3p

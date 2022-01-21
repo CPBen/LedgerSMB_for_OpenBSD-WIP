@@ -1,0 +1,24 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/Zh/
+${P5SITE}/Locale/CLDR/Locales/Zh.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans/
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans/Cn.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans/Hk.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans/Mo.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hans/Sg.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hant/
+${P5SITE}/Locale/CLDR/Locales/Zh/Hant.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hant/Hk.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hant/Mo.pm
+${P5SITE}/Locale/CLDR/Locales/Zh/Hant/Tw.pm
+@man man/man3p/Locale::CLDR::Locales::Zh.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hans.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hans::Cn.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hans::Hk.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hans::Mo.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hans::Sg.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hant.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hant::Hk.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hant::Mo.3p
+@man man/man3p/Locale::CLDR::Locales::Zh::Hant::Tw.3p

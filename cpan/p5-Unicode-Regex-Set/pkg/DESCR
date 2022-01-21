@@ -1,0 +1,3 @@
+use Unicode::Regex::Set qw(parse);
+
+$regex = parse('[\p{Latin} & \p{L&} - \p{ASCII}]');

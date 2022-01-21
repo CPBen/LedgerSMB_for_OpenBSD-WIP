@@ -1,0 +1,3 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/PGObject/Simple.pm
+@man man/man3p/PGObject::Simple.3p

@@ -1,0 +1,8 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Locale/CLDR/Locales/Lt/
+${P5SITE}/Locale/CLDR/Locales/Lt.pm
+${P5SITE}/Locale/CLDR/Locales/Lt/Any/
+${P5SITE}/Locale/CLDR/Locales/Lt/Any.pm
+${P5SITE}/Locale/CLDR/Locales/Lt/Any/Lt.pm
+@man man/man3p/Locale::CLDR::Locales::Lt.3p
+@man man/man3p/Locale::CLDR::Locales::Lt::Any::Lt.3p
