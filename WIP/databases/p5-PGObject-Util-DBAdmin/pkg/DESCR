@@ -1,0 +1,2 @@
+PostgreSQL database management facilities for PGObject. This module provides an
+interface to the basic Postgres db manipulation utilities.

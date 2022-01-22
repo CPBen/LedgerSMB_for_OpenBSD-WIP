@@ -1,0 +1,5 @@
+This module provides encoding to LaTeX escapes from utf8 using mapping
+tables in Pod::LaTeX and HTML::Entities. This covers only a subset of
+the Unicode character table (undef warnings will occur for non-mapped
+chars). This module is intentionally vague about what it will handle,
+see Caveats below.

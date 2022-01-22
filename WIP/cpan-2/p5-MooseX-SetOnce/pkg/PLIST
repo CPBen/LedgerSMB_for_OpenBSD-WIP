@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/MooseX/
+${P5SITE}/MooseX/SetOnce.pm
+@man man/man3p/MooseX::SetOnce.3p

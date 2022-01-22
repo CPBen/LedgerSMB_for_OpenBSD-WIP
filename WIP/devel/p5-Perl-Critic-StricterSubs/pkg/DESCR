@@ -1,0 +1,7 @@
+As a dynamic language, Perl doesn't require you to define subroutines
+until run-time. Although this is a powerful feature, it can also be a
+major source of bugs. For example, you might mistype the name of a
+subroutine, or call a subroutine from another module without including
+that module or importing that subroutine. And unless you have very good
+test coverage, you might not know about these bugs until you have
+already launched your code.

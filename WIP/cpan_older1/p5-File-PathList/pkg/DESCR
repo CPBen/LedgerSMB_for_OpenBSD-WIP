@@ -1,0 +1,2 @@
+Many systems that map generic relative paths to absolute paths do so
+with a set of base paths.

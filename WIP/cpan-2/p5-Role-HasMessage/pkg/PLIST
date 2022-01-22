@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Role/
+${P5SITE}/Role/HasMessage/
+${P5SITE}/Role/HasMessage.pm
+${P5SITE}/Role/HasMessage/Errf.pm
+@man man/man3p/Role::HasMessage.3p
+@man man/man3p/Role::HasMessage::Errf.3p

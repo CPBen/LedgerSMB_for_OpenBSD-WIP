@@ -1,0 +1,13 @@
+$OpenBSD$
+
+Index: t/01.2-backup_globals.t
+--- t/01.2-backup_globals.t.orig
++++ t/01.2-backup_globals.t
+@@ -22,6 +22,7 @@ ok($db = PGObject::Util::DBAdmin->new(
+      dbname   => 'pgobject_test_db',
+      host     => 'localhost',
+      port     => '5432'
++     ,host     => $ENV{MODPOSTGRESQL_TEST_PGHOST},
+ ), 'Created db admin object');
+ 
+ # Drop db if exists

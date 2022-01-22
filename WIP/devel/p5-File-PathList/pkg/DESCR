@@ -1,0 +1,8 @@
+Many systems that map generic relative paths to absolute paths do so
+with a set of base paths.
+For example, Perl itself when loading classes first turn a Class::Name
+into a path like Class/Name.pm, and then looks through each element of
+@INC to find the actual file.
+To aid in portability, all relative paths are provided as Unix-style
+relative paths, and converted to the localised version in the process of
+looking up the path.

@@ -1,0 +1,3 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/String/Errf.pm
+@man man/man3p/String::Errf.3p

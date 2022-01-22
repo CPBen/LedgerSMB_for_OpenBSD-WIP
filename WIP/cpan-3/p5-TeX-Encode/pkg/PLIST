@@ -1,0 +1,9 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/TeX/
+${P5SITE}/TeX/Encode/
+${P5SITE}/TeX/Encode.pm
+${P5SITE}/TeX/Encode/BibTeX.pm
+${P5SITE}/TeX/Encode/charmap.pm
+@man man/man3p/TeX::Encode.3p
+@man man/man3p/TeX::Encode::BibTeX.3p
+@man man/man3p/TeX::Encode::charmap.3p

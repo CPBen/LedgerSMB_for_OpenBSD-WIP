@@ -1,0 +1,13 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Perl/
+${P5SITE}/Perl/PrereqScanner/
+${P5SITE}/Perl/PrereqScanner/Lite/
+${P5SITE}/Perl/PrereqScanner/Lite.pm
+${P5SITE}/Perl/PrereqScanner/Lite/Constants.pm
+${P5SITE}/Perl/PrereqScanner/Lite/Scanner/
+${P5SITE}/Perl/PrereqScanner/Lite/Scanner/Moose.pm
+${P5SITE}/Perl/PrereqScanner/Lite/Scanner/Version.pm
+@man man/man3p/Perl::PrereqScanner::Lite.3p
+@man man/man3p/Perl::PrereqScanner::Lite::Constants.3p
+@man man/man3p/Perl::PrereqScanner::Lite::Scanner::Moose.3p
+@man man/man3p/Perl::PrereqScanner::Lite::Scanner::Version.3p

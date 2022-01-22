@@ -1,0 +1,8 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Log/Dispatchouli/
+${P5SITE}/Log/Dispatchouli.pm
+${P5SITE}/Log/Dispatchouli/Global.pm
+${P5SITE}/Log/Dispatchouli/Proxy.pm
+@man man/man3p/Log::Dispatchouli.3p
+@man man/man3p/Log::Dispatchouli::Global.3p
+@man man/man3p/Log::Dispatchouli::Proxy.3p

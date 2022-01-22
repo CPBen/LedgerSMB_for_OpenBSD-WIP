@@ -1,0 +1,304 @@
+@comment $OpenBSD: PLIST,v$
+bin/dzil
+${P5SITE}/Dist/Zilla/
+${P5SITE}/Dist/Zilla.pm
+${P5SITE}/Dist/Zilla/App/
+${P5SITE}/Dist/Zilla/App.pm
+${P5SITE}/Dist/Zilla/App/Command/
+${P5SITE}/Dist/Zilla/App/Command.pm
+${P5SITE}/Dist/Zilla/App/Command/add.pm
+${P5SITE}/Dist/Zilla/App/Command/authordeps.pm
+${P5SITE}/Dist/Zilla/App/Command/build.pm
+${P5SITE}/Dist/Zilla/App/Command/clean.pm
+${P5SITE}/Dist/Zilla/App/Command/install.pm
+${P5SITE}/Dist/Zilla/App/Command/listdeps.pm
+${P5SITE}/Dist/Zilla/App/Command/new.pm
+${P5SITE}/Dist/Zilla/App/Command/nop.pm
+${P5SITE}/Dist/Zilla/App/Command/release.pm
+${P5SITE}/Dist/Zilla/App/Command/run.pm
+${P5SITE}/Dist/Zilla/App/Command/setup.pm
+${P5SITE}/Dist/Zilla/App/Command/smoke.pm
+${P5SITE}/Dist/Zilla/App/Command/test.pm
+${P5SITE}/Dist/Zilla/App/Command/version.pm
+${P5SITE}/Dist/Zilla/App/Tester.pm
+${P5SITE}/Dist/Zilla/Chrome/
+${P5SITE}/Dist/Zilla/Chrome/Term.pm
+${P5SITE}/Dist/Zilla/Chrome/Test.pm
+${P5SITE}/Dist/Zilla/Dist/
+${P5SITE}/Dist/Zilla/Dist/Builder.pm
+${P5SITE}/Dist/Zilla/Dist/Minter.pm
+${P5SITE}/Dist/Zilla/File/
+${P5SITE}/Dist/Zilla/File/FromCode.pm
+${P5SITE}/Dist/Zilla/File/InMemory.pm
+${P5SITE}/Dist/Zilla/File/OnDisk.pm
+${P5SITE}/Dist/Zilla/MVP/
+${P5SITE}/Dist/Zilla/MVP/Assembler/
+${P5SITE}/Dist/Zilla/MVP/Assembler.pm
+${P5SITE}/Dist/Zilla/MVP/Assembler/GlobalConfig.pm
+${P5SITE}/Dist/Zilla/MVP/Assembler/Zilla.pm
+${P5SITE}/Dist/Zilla/MVP/Reader/
+${P5SITE}/Dist/Zilla/MVP/Reader/Finder.pm
+${P5SITE}/Dist/Zilla/MVP/Reader/Perl.pm
+${P5SITE}/Dist/Zilla/MVP/RootSection.pm
+${P5SITE}/Dist/Zilla/MVP/Section.pm
+${P5SITE}/Dist/Zilla/MintingProfile/
+${P5SITE}/Dist/Zilla/MintingProfile/Default.pm
+${P5SITE}/Dist/Zilla/Path.pm
+${P5SITE}/Dist/Zilla/Plugin/
+${P5SITE}/Dist/Zilla/Plugin/AutoPrereqs.pm
+${P5SITE}/Dist/Zilla/Plugin/AutoVersion.pm
+${P5SITE}/Dist/Zilla/Plugin/CPANFile.pm
+${P5SITE}/Dist/Zilla/Plugin/ConfirmRelease.pm
+${P5SITE}/Dist/Zilla/Plugin/DistINI.pm
+${P5SITE}/Dist/Zilla/Plugin/Encoding.pm
+${P5SITE}/Dist/Zilla/Plugin/ExecDir.pm
+${P5SITE}/Dist/Zilla/Plugin/ExtraTests.pm
+${P5SITE}/Dist/Zilla/Plugin/FakeRelease.pm
+${P5SITE}/Dist/Zilla/Plugin/FileFinder/
+${P5SITE}/Dist/Zilla/Plugin/FileFinder/ByName.pm
+${P5SITE}/Dist/Zilla/Plugin/FileFinder/Filter.pm
+${P5SITE}/Dist/Zilla/Plugin/FinderCode.pm
+${P5SITE}/Dist/Zilla/Plugin/GatherDir/
+${P5SITE}/Dist/Zilla/Plugin/GatherDir.pm
+${P5SITE}/Dist/Zilla/Plugin/GatherDir/Template.pm
+${P5SITE}/Dist/Zilla/Plugin/GatherFile.pm
+${P5SITE}/Dist/Zilla/Plugin/GenerateFile.pm
+${P5SITE}/Dist/Zilla/Plugin/InlineFiles.pm
+${P5SITE}/Dist/Zilla/Plugin/License.pm
+${P5SITE}/Dist/Zilla/Plugin/MakeMaker/
+${P5SITE}/Dist/Zilla/Plugin/MakeMaker.pm
+${P5SITE}/Dist/Zilla/Plugin/MakeMaker/Runner.pm
+${P5SITE}/Dist/Zilla/Plugin/Manifest.pm
+${P5SITE}/Dist/Zilla/Plugin/ManifestSkip.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaConfig.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaJSON.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaNoIndex.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaResources.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaTests.pm
+${P5SITE}/Dist/Zilla/Plugin/MetaYAML.pm
+${P5SITE}/Dist/Zilla/Plugin/ModuleBuild.pm
+${P5SITE}/Dist/Zilla/Plugin/ModuleShareDirs.pm
+${P5SITE}/Dist/Zilla/Plugin/NextRelease.pm
+${P5SITE}/Dist/Zilla/Plugin/PkgDist.pm
+${P5SITE}/Dist/Zilla/Plugin/PkgVersion.pm
+${P5SITE}/Dist/Zilla/Plugin/PodCoverageTests.pm
+${P5SITE}/Dist/Zilla/Plugin/PodSyntaxTests.pm
+${P5SITE}/Dist/Zilla/Plugin/PodVersion.pm
+${P5SITE}/Dist/Zilla/Plugin/Prereqs.pm
+${P5SITE}/Dist/Zilla/Plugin/PruneCruft.pm
+${P5SITE}/Dist/Zilla/Plugin/PruneFiles.pm
+${P5SITE}/Dist/Zilla/Plugin/Readme.pm
+${P5SITE}/Dist/Zilla/Plugin/RemovePrereqs.pm
+${P5SITE}/Dist/Zilla/Plugin/ShareDir.pm
+${P5SITE}/Dist/Zilla/Plugin/TemplateModule.pm
+${P5SITE}/Dist/Zilla/Plugin/TestRelease.pm
+${P5SITE}/Dist/Zilla/Plugin/UploadToCPAN.pm
+${P5SITE}/Dist/Zilla/PluginBundle/
+${P5SITE}/Dist/Zilla/PluginBundle/Basic.pm
+${P5SITE}/Dist/Zilla/PluginBundle/Classic.pm
+${P5SITE}/Dist/Zilla/PluginBundle/FakeClassic.pm
+${P5SITE}/Dist/Zilla/PluginBundle/Filter.pm
+${P5SITE}/Dist/Zilla/Prereqs.pm
+${P5SITE}/Dist/Zilla/Role/
+${P5SITE}/Dist/Zilla/Role/AfterBuild.pm
+${P5SITE}/Dist/Zilla/Role/AfterMint.pm
+${P5SITE}/Dist/Zilla/Role/AfterRelease.pm
+${P5SITE}/Dist/Zilla/Role/BeforeArchive.pm
+${P5SITE}/Dist/Zilla/Role/BeforeBuild.pm
+${P5SITE}/Dist/Zilla/Role/BeforeMint.pm
+${P5SITE}/Dist/Zilla/Role/BeforeRelease.pm
+${P5SITE}/Dist/Zilla/Role/BuildPL.pm
+${P5SITE}/Dist/Zilla/Role/BuildRunner.pm
+${P5SITE}/Dist/Zilla/Role/Chrome.pm
+${P5SITE}/Dist/Zilla/Role/ConfigDumper.pm
+${P5SITE}/Dist/Zilla/Role/EncodingProvider.pm
+${P5SITE}/Dist/Zilla/Role/ExecFiles.pm
+${P5SITE}/Dist/Zilla/Role/File.pm
+${P5SITE}/Dist/Zilla/Role/FileFinder.pm
+${P5SITE}/Dist/Zilla/Role/FileFinderUser.pm
+${P5SITE}/Dist/Zilla/Role/FileGatherer.pm
+${P5SITE}/Dist/Zilla/Role/FileInjector.pm
+${P5SITE}/Dist/Zilla/Role/FileMunger.pm
+${P5SITE}/Dist/Zilla/Role/FilePruner.pm
+${P5SITE}/Dist/Zilla/Role/InstallTool.pm
+${P5SITE}/Dist/Zilla/Role/LicenseProvider.pm
+${P5SITE}/Dist/Zilla/Role/MetaProvider.pm
+${P5SITE}/Dist/Zilla/Role/MintingProfile/
+${P5SITE}/Dist/Zilla/Role/MintingProfile.pm
+${P5SITE}/Dist/Zilla/Role/MintingProfile/ShareDir.pm
+${P5SITE}/Dist/Zilla/Role/ModuleMaker.pm
+${P5SITE}/Dist/Zilla/Role/MutableFile.pm
+${P5SITE}/Dist/Zilla/Role/NameProvider.pm
+${P5SITE}/Dist/Zilla/Role/PPI.pm
+${P5SITE}/Dist/Zilla/Role/Plugin.pm
+${P5SITE}/Dist/Zilla/Role/PluginBundle/
+${P5SITE}/Dist/Zilla/Role/PluginBundle.pm
+${P5SITE}/Dist/Zilla/Role/PluginBundle/Easy.pm
+${P5SITE}/Dist/Zilla/Role/PrereqScanner.pm
+${P5SITE}/Dist/Zilla/Role/PrereqSource.pm
+${P5SITE}/Dist/Zilla/Role/ReleaseStatusProvider.pm
+${P5SITE}/Dist/Zilla/Role/Releaser.pm
+${P5SITE}/Dist/Zilla/Role/ShareDir.pm
+${P5SITE}/Dist/Zilla/Role/Stash/
+${P5SITE}/Dist/Zilla/Role/Stash.pm
+${P5SITE}/Dist/Zilla/Role/Stash/Authors.pm
+${P5SITE}/Dist/Zilla/Role/Stash/Login.pm
+${P5SITE}/Dist/Zilla/Role/StubBuild.pm
+${P5SITE}/Dist/Zilla/Role/TestRunner.pm
+${P5SITE}/Dist/Zilla/Role/TextTemplate.pm
+${P5SITE}/Dist/Zilla/Role/VersionProvider.pm
+${P5SITE}/Dist/Zilla/Stash/
+${P5SITE}/Dist/Zilla/Stash/Mint.pm
+${P5SITE}/Dist/Zilla/Stash/PAUSE.pm
+${P5SITE}/Dist/Zilla/Stash/Rights.pm
+${P5SITE}/Dist/Zilla/Stash/User.pm
+${P5SITE}/Dist/Zilla/Tester.pm
+${P5SITE}/Dist/Zilla/Tutorial.pm
+${P5SITE}/Dist/Zilla/Types.pm
+${P5SITE}/Dist/Zilla/Util/
+${P5SITE}/Dist/Zilla/Util.pm
+${P5SITE}/Dist/Zilla/Util/AuthorDeps.pm
+${P5SITE}/Test/DZil.pm
+${P5SITE}/auto/share/module/Dist-Zilla-MintingProfile-Default/
+${P5SITE}/auto/share/module/Dist-Zilla-MintingProfile-Default/default/
+${P5SITE}/auto/share/module/Dist-Zilla-MintingProfile-Default/default/extra-dist.ini
+${P5SITE}/auto/share/module/Dist-Zilla-MintingProfile-Default/default/profile.ini
+@man man/man1/dzil.1
+@man man/man3p/Dist::Zilla.3p
+@man man/man3p/Dist::Zilla::App.3p
+@man man/man3p/Dist::Zilla::App::Command.3p
+@man man/man3p/Dist::Zilla::App::Command::add.3p
+@man man/man3p/Dist::Zilla::App::Command::authordeps.3p
+@man man/man3p/Dist::Zilla::App::Command::build.3p
+@man man/man3p/Dist::Zilla::App::Command::clean.3p
+@man man/man3p/Dist::Zilla::App::Command::install.3p
+@man man/man3p/Dist::Zilla::App::Command::listdeps.3p
+@man man/man3p/Dist::Zilla::App::Command::new.3p
+@man man/man3p/Dist::Zilla::App::Command::nop.3p
+@man man/man3p/Dist::Zilla::App::Command::release.3p
+@man man/man3p/Dist::Zilla::App::Command::run.3p
+@man man/man3p/Dist::Zilla::App::Command::setup.3p
+@man man/man3p/Dist::Zilla::App::Command::smoke.3p
+@man man/man3p/Dist::Zilla::App::Command::test.3p
+@man man/man3p/Dist::Zilla::App::Command::version.3p
+@man man/man3p/Dist::Zilla::App::Tester.3p
+@man man/man3p/Dist::Zilla::Chrome::Term.3p
+@man man/man3p/Dist::Zilla::Chrome::Test.3p
+@man man/man3p/Dist::Zilla::Dist::Builder.3p
+@man man/man3p/Dist::Zilla::Dist::Minter.3p
+@man man/man3p/Dist::Zilla::File::FromCode.3p
+@man man/man3p/Dist::Zilla::File::InMemory.3p
+@man man/man3p/Dist::Zilla::File::OnDisk.3p
+@man man/man3p/Dist::Zilla::MVP::Assembler.3p
+@man man/man3p/Dist::Zilla::MVP::Assembler::GlobalConfig.3p
+@man man/man3p/Dist::Zilla::MVP::Assembler::Zilla.3p
+@man man/man3p/Dist::Zilla::MVP::Reader::Finder.3p
+@man man/man3p/Dist::Zilla::MVP::Reader::Perl.3p
+@man man/man3p/Dist::Zilla::MVP::RootSection.3p
+@man man/man3p/Dist::Zilla::MVP::Section.3p
+@man man/man3p/Dist::Zilla::MintingProfile::Default.3p
+@man man/man3p/Dist::Zilla::Path.3p
+@man man/man3p/Dist::Zilla::Plugin::AutoPrereqs.3p
+@man man/man3p/Dist::Zilla::Plugin::AutoVersion.3p
+@man man/man3p/Dist::Zilla::Plugin::CPANFile.3p
+@man man/man3p/Dist::Zilla::Plugin::ConfirmRelease.3p
+@man man/man3p/Dist::Zilla::Plugin::DistINI.3p
+@man man/man3p/Dist::Zilla::Plugin::Encoding.3p
+@man man/man3p/Dist::Zilla::Plugin::ExecDir.3p
+@man man/man3p/Dist::Zilla::Plugin::ExtraTests.3p
+@man man/man3p/Dist::Zilla::Plugin::FakeRelease.3p
+@man man/man3p/Dist::Zilla::Plugin::FileFinder::ByName.3p
+@man man/man3p/Dist::Zilla::Plugin::FileFinder::Filter.3p
+@man man/man3p/Dist::Zilla::Plugin::FinderCode.3p
+@man man/man3p/Dist::Zilla::Plugin::GatherDir.3p
+@man man/man3p/Dist::Zilla::Plugin::GatherDir::Template.3p
+@man man/man3p/Dist::Zilla::Plugin::GatherFile.3p
+@man man/man3p/Dist::Zilla::Plugin::GenerateFile.3p
+@man man/man3p/Dist::Zilla::Plugin::InlineFiles.3p
+@man man/man3p/Dist::Zilla::Plugin::License.3p
+@man man/man3p/Dist::Zilla::Plugin::MakeMaker.3p
+@man man/man3p/Dist::Zilla::Plugin::MakeMaker::Runner.3p
+@man man/man3p/Dist::Zilla::Plugin::Manifest.3p
+@man man/man3p/Dist::Zilla::Plugin::ManifestSkip.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaConfig.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaJSON.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaNoIndex.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaResources.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaTests.3p
+@man man/man3p/Dist::Zilla::Plugin::MetaYAML.3p
+@man man/man3p/Dist::Zilla::Plugin::ModuleBuild.3p
+@man man/man3p/Dist::Zilla::Plugin::ModuleShareDirs.3p
+@man man/man3p/Dist::Zilla::Plugin::NextRelease.3p
+@man man/man3p/Dist::Zilla::Plugin::PkgDist.3p
+@man man/man3p/Dist::Zilla::Plugin::PkgVersion.3p
+@man man/man3p/Dist::Zilla::Plugin::PodCoverageTests.3p
+@man man/man3p/Dist::Zilla::Plugin::PodSyntaxTests.3p
+@man man/man3p/Dist::Zilla::Plugin::PodVersion.3p
+@man man/man3p/Dist::Zilla::Plugin::Prereqs.3p
+@man man/man3p/Dist::Zilla::Plugin::PruneCruft.3p
+@man man/man3p/Dist::Zilla::Plugin::PruneFiles.3p
+@man man/man3p/Dist::Zilla::Plugin::Readme.3p
+@man man/man3p/Dist::Zilla::Plugin::RemovePrereqs.3p
+@man man/man3p/Dist::Zilla::Plugin::ShareDir.3p
+@man man/man3p/Dist::Zilla::Plugin::TemplateModule.3p
+@man man/man3p/Dist::Zilla::Plugin::TestRelease.3p
+@man man/man3p/Dist::Zilla::Plugin::UploadToCPAN.3p
+@man man/man3p/Dist::Zilla::PluginBundle::Basic.3p
+@man man/man3p/Dist::Zilla::PluginBundle::Classic.3p
+@man man/man3p/Dist::Zilla::PluginBundle::FakeClassic.3p
+@man man/man3p/Dist::Zilla::PluginBundle::Filter.3p
+@man man/man3p/Dist::Zilla::Prereqs.3p
+@man man/man3p/Dist::Zilla::Role::AfterBuild.3p
+@man man/man3p/Dist::Zilla::Role::AfterMint.3p
+@man man/man3p/Dist::Zilla::Role::AfterRelease.3p
+@man man/man3p/Dist::Zilla::Role::BeforeArchive.3p
+@man man/man3p/Dist::Zilla::Role::BeforeBuild.3p
+@man man/man3p/Dist::Zilla::Role::BeforeMint.3p
+@man man/man3p/Dist::Zilla::Role::BeforeRelease.3p
+@man man/man3p/Dist::Zilla::Role::BuildPL.3p
+@man man/man3p/Dist::Zilla::Role::BuildRunner.3p
+@man man/man3p/Dist::Zilla::Role::Chrome.3p
+@man man/man3p/Dist::Zilla::Role::ConfigDumper.3p
+@man man/man3p/Dist::Zilla::Role::EncodingProvider.3p
+@man man/man3p/Dist::Zilla::Role::ExecFiles.3p
+@man man/man3p/Dist::Zilla::Role::File.3p
+@man man/man3p/Dist::Zilla::Role::FileFinder.3p
+@man man/man3p/Dist::Zilla::Role::FileFinderUser.3p
+@man man/man3p/Dist::Zilla::Role::FileGatherer.3p
+@man man/man3p/Dist::Zilla::Role::FileInjector.3p
+@man man/man3p/Dist::Zilla::Role::FileMunger.3p
+@man man/man3p/Dist::Zilla::Role::FilePruner.3p
+@man man/man3p/Dist::Zilla::Role::InstallTool.3p
+@man man/man3p/Dist::Zilla::Role::LicenseProvider.3p
+@man man/man3p/Dist::Zilla::Role::MetaProvider.3p
+@man man/man3p/Dist::Zilla::Role::MintingProfile.3p
+@man man/man3p/Dist::Zilla::Role::MintingProfile::ShareDir.3p
+@man man/man3p/Dist::Zilla::Role::ModuleMaker.3p
+@man man/man3p/Dist::Zilla::Role::MutableFile.3p
+@man man/man3p/Dist::Zilla::Role::NameProvider.3p
+@man man/man3p/Dist::Zilla::Role::PPI.3p
+@man man/man3p/Dist::Zilla::Role::Plugin.3p
+@man man/man3p/Dist::Zilla::Role::PluginBundle.3p
+@man man/man3p/Dist::Zilla::Role::PluginBundle::Easy.3p
+@man man/man3p/Dist::Zilla::Role::PrereqScanner.3p
+@man man/man3p/Dist::Zilla::Role::PrereqSource.3p
+@man man/man3p/Dist::Zilla::Role::ReleaseStatusProvider.3p
+@man man/man3p/Dist::Zilla::Role::Releaser.3p
+@man man/man3p/Dist::Zilla::Role::ShareDir.3p
+@man man/man3p/Dist::Zilla::Role::Stash.3p
+@man man/man3p/Dist::Zilla::Role::Stash::Authors.3p
+@man man/man3p/Dist::Zilla::Role::Stash::Login.3p
+@man man/man3p/Dist::Zilla::Role::StubBuild.3p
+@man man/man3p/Dist::Zilla::Role::TestRunner.3p
+@man man/man3p/Dist::Zilla::Role::TextTemplate.3p
+@man man/man3p/Dist::Zilla::Role::VersionProvider.3p
+@man man/man3p/Dist::Zilla::Stash::Mint.3p
+@man man/man3p/Dist::Zilla::Stash::PAUSE.3p
+@man man/man3p/Dist::Zilla::Stash::Rights.3p
+@man man/man3p/Dist::Zilla::Stash::User.3p
+@man man/man3p/Dist::Zilla::Tester.3p
+@man man/man3p/Dist::Zilla::Tutorial.3p
+@man man/man3p/Dist::Zilla::Types.3p
+@man man/man3p/Dist::Zilla::Util.3p
+@man man/man3p/Dist::Zilla::Util::AuthorDeps.3p
+@man man/man3p/Test::DZil.3p

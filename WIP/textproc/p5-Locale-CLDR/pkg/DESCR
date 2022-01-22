@@ -1,0 +1,6 @@
+The general overview of the project is to convert the XML of the CLDR
+into a large number of small Perl modules that can be loaded from the
+main Local::CLDR when needed to do what ever localisation is required.
+CLDR refers to the Unicode Common Locale Data Repository.
+This package comes with the Locale data for en_US, other locale data can
+be found in the Locale::CLDR::Locales::* distributions.

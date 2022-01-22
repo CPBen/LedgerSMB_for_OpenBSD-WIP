@@ -1,0 +1,3 @@
+Plack::Request::WithEncoding is a subclass of Plack::Request that
+supports encoded requests.  It overrides many Plack::Request
+attributes to return decoded values.

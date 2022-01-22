@@ -1,0 +1,3 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Config/MVP/Reader/INI.pm
+@man man/man3p/Config::MVP::Reader::INI.3p

@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Role/
+${P5SITE}/Role/Identifiable/
+${P5SITE}/Role/Identifiable/HasIdent.pm
+${P5SITE}/Role/Identifiable/HasTags.pm
+@man man/man3p/Role::Identifiable::HasIdent.3p
+@man man/man3p/Role::Identifiable::HasTags.3p

@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Weasel/FindExpanders/Dojo.pm
+${P5SITE}/Weasel/Widgets/Dojo/
+${P5SITE}/Weasel/Widgets/Dojo.pm
+${P5SITE}/Weasel/Widgets/Dojo/Option.pm
+${P5SITE}/Weasel/Widgets/Dojo/Select.pm
+@man man/man3p/Weasel::FindExpanders::Dojo.3p

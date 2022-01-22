@@ -1,0 +1,24 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/X12/
+${P5SITE}/X12/Parser/
+${P5SITE}/X12/Parser.pm
+${P5SITE}/X12/Parser/Cf.pm
+${P5SITE}/X12/Parser/Tree.pm
+${P5SITE}/X12/Parser/cf/
+${P5SITE}/X12/Parser/cf/270_004010X092.cf
+${P5SITE}/X12/Parser/cf/271_004010X092.cf
+${P5SITE}/X12/Parser/cf/276_004010X093.cf
+${P5SITE}/X12/Parser/cf/277_004010X092.cf
+${P5SITE}/X12/Parser/cf/278_004010X094_Req.cf
+${P5SITE}/X12/Parser/cf/278_004010X094_Res.cf
+${P5SITE}/X12/Parser/cf/820_004010X061.cf
+${P5SITE}/X12/Parser/cf/834_004010X095.cf
+${P5SITE}/X12/Parser/cf/835_004010X091.cf
+${P5SITE}/X12/Parser/cf/837_004010X096.cf
+${P5SITE}/X12/Parser/cf/837_004010X097.cf
+${P5SITE}/X12/Parser/cf/837_004010X098.cf
+${P5SITE}/X12/Parser/cf/997.cf
+man/man3p/Parser/
+@man man/man3p/X12::Parser.3p
+@man man/man3p/X12::Parser::Cf.3p
+@man man/man3p/X12::Parser::Tree.3p

@@ -1,0 +1,16 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Perl/Critic/Policy/Modules/RequireExplicitInclusion.pm
+${P5SITE}/Perl/Critic/Policy/Subroutines/ProhibitCallsToUndeclaredSubs.pm
+${P5SITE}/Perl/Critic/Policy/Subroutines/ProhibitCallsToUnexportedSubs.pm
+${P5SITE}/Perl/Critic/Policy/Subroutines/ProhibitExportingUndeclaredSubs.pm
+${P5SITE}/Perl/Critic/Policy/Subroutines/ProhibitQualifiedSubDeclarations.pm
+${P5SITE}/Perl/Critic/StricterSubs/
+${P5SITE}/Perl/Critic/StricterSubs.pm
+${P5SITE}/Perl/Critic/StricterSubs/Utils.pm
+@man man/man3p/Perl::Critic::Policy::Modules::RequireExplicitInclusion.3p
+@man man/man3p/Perl::Critic::Policy::Subroutines::ProhibitCallsToUndeclaredSubs.3p
+@man man/man3p/Perl::Critic::Policy::Subroutines::ProhibitCallsToUnexportedSubs.3p
+@man man/man3p/Perl::Critic::Policy::Subroutines::ProhibitExportingUndeclaredSubs.3p
+@man man/man3p/Perl::Critic::Policy::Subroutines::ProhibitQualifiedSubDeclarations.3p
+@man man/man3p/Perl::Critic::StricterSubs.3p
+@man man/man3p/Perl::Critic::StricterSubs::Utils.3p

@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/File/
+${P5SITE}/File/PathList.pm
+@man man/man3p/File::PathList.3p

@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Version/
+${P5SITE}/Version/Compare.pm
+@man man/man3p/Version::Compare.3p

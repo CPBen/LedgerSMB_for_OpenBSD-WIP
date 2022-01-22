@@ -1,0 +1,34 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Weasel/
+${P5SITE}/Weasel.pm
+${P5SITE}/Weasel/DriverRole.pm
+${P5SITE}/Weasel/Element/
+${P5SITE}/Weasel/Element.pm
+${P5SITE}/Weasel/Element/Document.pm
+${P5SITE}/Weasel/FindExpanders/
+${P5SITE}/Weasel/FindExpanders.pm
+${P5SITE}/Weasel/FindExpanders/HTML.pm
+${P5SITE}/Weasel/Session.pm
+${P5SITE}/Weasel/WidgetHandlers.pm
+${P5SITE}/Weasel/Widgets/
+${P5SITE}/Weasel/Widgets/HTML/
+${P5SITE}/Weasel/Widgets/HTML.pm
+${P5SITE}/Weasel/Widgets/HTML/Button.pm
+${P5SITE}/Weasel/Widgets/HTML/Input.pm
+${P5SITE}/Weasel/Widgets/HTML/Radio.pm
+${P5SITE}/Weasel/Widgets/HTML/Select.pm
+${P5SITE}/Weasel/Widgets/HTML/Selectable.pm
+@man man/man3p/Weasel.3p
+@man man/man3p/Weasel::DriverRole.3p
+@man man/man3p/Weasel::Element.3p
+@man man/man3p/Weasel::Element::Document.3p
+@man man/man3p/Weasel::FindExpanders.3p
+@man man/man3p/Weasel::FindExpanders::HTML.3p
+@man man/man3p/Weasel::Session.3p
+@man man/man3p/Weasel::WidgetHandlers.3p
+@man man/man3p/Weasel::Widgets::HTML.3p
+@man man/man3p/Weasel::Widgets::HTML::Button.3p
+@man man/man3p/Weasel::Widgets::HTML::Input.3p
+@man man/man3p/Weasel::Widgets::HTML::Radio.3p
+@man man/man3p/Weasel::Widgets::HTML::Select.3p
+@man man/man3p/Weasel::Widgets::HTML::Selectable.3p

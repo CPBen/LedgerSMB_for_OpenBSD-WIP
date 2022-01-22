@@ -1,0 +1,78 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Selenium/
+${P5SITE}/Selenium/ActionChains.pm
+${P5SITE}/Selenium/CanStartBinary/
+${P5SITE}/Selenium/CanStartBinary.pm
+${P5SITE}/Selenium/CanStartBinary/FindBinary.pm
+${P5SITE}/Selenium/CanStartBinary/ProbePort.pm
+${P5SITE}/Selenium/Chrome.pm
+${P5SITE}/Selenium/Edge.pm
+${P5SITE}/Selenium/Firefox/
+${P5SITE}/Selenium/Firefox.pm
+${P5SITE}/Selenium/Firefox/Binary.pm
+${P5SITE}/Selenium/Firefox/Profile.pm
+${P5SITE}/Selenium/Firefox/webdriver.xpi
+${P5SITE}/Selenium/Firefox/webdriver_prefs.json
+${P5SITE}/Selenium/InternetExplorer.pm
+${P5SITE}/Selenium/PhantomJS.pm
+${P5SITE}/Selenium/Remote/
+${P5SITE}/Selenium/Remote/Commands.pm
+${P5SITE}/Selenium/Remote/Driver/
+${P5SITE}/Selenium/Remote/Driver.pm
+${P5SITE}/Selenium/Remote/Driver/CanSetWebdriverContext.pm
+${P5SITE}/Selenium/Remote/Driver/Firefox/
+${P5SITE}/Selenium/Remote/Driver/Firefox/Profile.pm
+${P5SITE}/Selenium/Remote/ErrorHandler.pm
+${P5SITE}/Selenium/Remote/Finders.pm
+${P5SITE}/Selenium/Remote/Mock/
+${P5SITE}/Selenium/Remote/Mock/Commands.pm
+${P5SITE}/Selenium/Remote/Mock/RemoteConnection.pm
+${P5SITE}/Selenium/Remote/RemoteConnection.pm
+${P5SITE}/Selenium/Remote/Spec.pm
+${P5SITE}/Selenium/Remote/WDKeys.pm
+${P5SITE}/Selenium/Remote/WebElement.pm
+${P5SITE}/Selenium/Remote/driver-example.pl
+${P5SITE}/Selenium/Waiter.pm
+${P5SITE}/Test/Selenium/
+${P5SITE}/Test/Selenium/Chrome.pm
+${P5SITE}/Test/Selenium/Edge.pm
+${P5SITE}/Test/Selenium/Firefox.pm
+${P5SITE}/Test/Selenium/InternetExplorer.pm
+${P5SITE}/Test/Selenium/PhantomJS.pm
+${P5SITE}/Test/Selenium/Remote/
+${P5SITE}/Test/Selenium/Remote/Driver.pm
+${P5SITE}/Test/Selenium/Remote/Role/
+${P5SITE}/Test/Selenium/Remote/Role/DoesTesting.pm
+${P5SITE}/Test/Selenium/Remote/WebElement.pm
+@man man/man3p/Selenium::ActionChains.3p
+@man man/man3p/Selenium::CanStartBinary.3p
+@man man/man3p/Selenium::CanStartBinary::FindBinary.3p
+@man man/man3p/Selenium::CanStartBinary::ProbePort.3p
+@man man/man3p/Selenium::Chrome.3p
+@man man/man3p/Selenium::Edge.3p
+@man man/man3p/Selenium::Firefox.3p
+@man man/man3p/Selenium::Firefox::Binary.3p
+@man man/man3p/Selenium::Firefox::Profile.3p
+@man man/man3p/Selenium::InternetExplorer.3p
+@man man/man3p/Selenium::PhantomJS.3p
+@man man/man3p/Selenium::Remote::Commands.3p
+@man man/man3p/Selenium::Remote::Driver.3p
+@man man/man3p/Selenium::Remote::Driver::CanSetWebdriverContext.3p
+@man man/man3p/Selenium::Remote::Driver::Firefox::Profile.3p
+@man man/man3p/Selenium::Remote::ErrorHandler.3p
+@man man/man3p/Selenium::Remote::Finders.3p
+@man man/man3p/Selenium::Remote::Mock::Commands.3p
+@man man/man3p/Selenium::Remote::Mock::RemoteConnection.3p
+@man man/man3p/Selenium::Remote::RemoteConnection.3p
+@man man/man3p/Selenium::Remote::Spec.3p
+@man man/man3p/Selenium::Remote::WDKeys.3p
+@man man/man3p/Selenium::Remote::WebElement.3p
+@man man/man3p/Selenium::Waiter.3p
+@man man/man3p/Test::Selenium::Chrome.3p
+@man man/man3p/Test::Selenium::Edge.3p
+@man man/man3p/Test::Selenium::Firefox.3p
+@man man/man3p/Test::Selenium::InternetExplorer.3p
+@man man/man3p/Test::Selenium::PhantomJS.3p
+@man man/man3p/Test::Selenium::Remote::Driver.3p
+@man man/man3p/Test::Selenium::Remote::Role::DoesTesting.3p
+@man man/man3p/Test::Selenium::Remote::WebElement.3p

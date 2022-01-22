@@ -1,0 +1,28 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Config/
+${P5SITE}/Config/MVP/
+${P5SITE}/Config/MVP.pm
+${P5SITE}/Config/MVP/Assembler/
+${P5SITE}/Config/MVP/Assembler.pm
+${P5SITE}/Config/MVP/Assembler/WithBundles.pm
+${P5SITE}/Config/MVP/Error.pm
+${P5SITE}/Config/MVP/Reader/
+${P5SITE}/Config/MVP/Reader.pm
+${P5SITE}/Config/MVP/Reader/Findable/
+${P5SITE}/Config/MVP/Reader/Findable.pm
+${P5SITE}/Config/MVP/Reader/Findable/ByExtension.pm
+${P5SITE}/Config/MVP/Reader/Finder.pm
+${P5SITE}/Config/MVP/Reader/Hash.pm
+${P5SITE}/Config/MVP/Section.pm
+${P5SITE}/Config/MVP/Sequence.pm
+@man man/man3p/Config::MVP.3p
+@man man/man3p/Config::MVP::Assembler.3p
+@man man/man3p/Config::MVP::Assembler::WithBundles.3p
+@man man/man3p/Config::MVP::Error.3p
+@man man/man3p/Config::MVP::Reader.3p
+@man man/man3p/Config::MVP::Reader::Findable.3p
+@man man/man3p/Config::MVP::Reader::Findable::ByExtension.3p
+@man man/man3p/Config::MVP::Reader::Finder.3p
+@man man/man3p/Config::MVP::Reader::Hash.3p
+@man man/man3p/Config::MVP::Section.3p
+@man man/man3p/Config::MVP::Sequence.3p

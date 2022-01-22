@@ -1,0 +1,3 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Log/Dispatch/Array.pm
+@man man/man3p/Log::Dispatch::Array.3p

@@ -1,0 +1,76 @@
+@comment $OpenBSD: PLIST,v$
+bin/pherkin
+${P5SITE}/App/
+${P5SITE}/App/pherkin.pm
+${P5SITE}/TAP/
+${P5SITE}/TAP/Parser/
+${P5SITE}/TAP/Parser/Iterator/
+${P5SITE}/TAP/Parser/Iterator/PherkinStream.pm
+${P5SITE}/TAP/Parser/SourceHandler/
+${P5SITE}/TAP/Parser/SourceHandler/Feature.pm
+${P5SITE}/Test/BDD/
+${P5SITE}/Test/BDD/Cucumber/
+${P5SITE}/Test/BDD/Cucumber.pm
+${P5SITE}/Test/BDD/Cucumber/Errors.pm
+${P5SITE}/Test/BDD/Cucumber/Executor.pm
+${P5SITE}/Test/BDD/Cucumber/Extension.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/
+${P5SITE}/Test/BDD/Cucumber/Harness.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/Data.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/JSON.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/TAP.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/TermColor.pm
+${P5SITE}/Test/BDD/Cucumber/Harness/TestBuilder.pm
+${P5SITE}/Test/BDD/Cucumber/I18N/
+${P5SITE}/Test/BDD/Cucumber/I18N/Data.pm
+${P5SITE}/Test/BDD/Cucumber/I18n.pm
+${P5SITE}/Test/BDD/Cucumber/Loader.pm
+${P5SITE}/Test/BDD/Cucumber/Manual/
+${P5SITE}/Test/BDD/Cucumber/Manual/Architecture.pod
+${P5SITE}/Test/BDD/Cucumber/Manual/Integration.pod
+${P5SITE}/Test/BDD/Cucumber/Manual/Steps.pod
+${P5SITE}/Test/BDD/Cucumber/Manual/Tutorial.pod
+${P5SITE}/Test/BDD/Cucumber/Model/
+${P5SITE}/Test/BDD/Cucumber/Model/Dataset.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Document.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Feature.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Line.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Result.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Scenario.pm
+${P5SITE}/Test/BDD/Cucumber/Model/Step.pm
+${P5SITE}/Test/BDD/Cucumber/Model/TagSpec.pm
+${P5SITE}/Test/BDD/Cucumber/Parser.pm
+${P5SITE}/Test/BDD/Cucumber/StepContext.pm
+${P5SITE}/Test/BDD/Cucumber/StepFile.pm
+${P5SITE}/Test/BDD/Cucumber/Util.pm
+@man man/man1/pherkin.1
+@man man/man3p/App::pherkin.3p
+@man man/man3p/Test::BDD::Cucumber.3p
+@man man/man3p/Test::BDD::Cucumber::Errors.3p
+@man man/man3p/Test::BDD::Cucumber::Executor.3p
+@man man/man3p/Test::BDD::Cucumber::Extension.3p
+@man man/man3p/Test::BDD::Cucumber::Harness.3p
+@man man/man3p/Test::BDD::Cucumber::Harness::Data.3p
+@man man/man3p/Test::BDD::Cucumber::Harness::JSON.3p
+@man man/man3p/Test::BDD::Cucumber::Harness::TAP.3p
+@man man/man3p/Test::BDD::Cucumber::Harness::TermColor.3p
+@man man/man3p/Test::BDD::Cucumber::Harness::TestBuilder.3p
+@man man/man3p/Test::BDD::Cucumber::I18N::Data.3p
+@man man/man3p/Test::BDD::Cucumber::I18n.3p
+@man man/man3p/Test::BDD::Cucumber::Loader.3p
+@man man/man3p/Test::BDD::Cucumber::Manual::Architecture.3p
+@man man/man3p/Test::BDD::Cucumber::Manual::Integration.3p
+@man man/man3p/Test::BDD::Cucumber::Manual::Steps.3p
+@man man/man3p/Test::BDD::Cucumber::Manual::Tutorial.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Dataset.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Document.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Feature.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Line.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Result.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Scenario.3p
+@man man/man3p/Test::BDD::Cucumber::Model::Step.3p
+@man man/man3p/Test::BDD::Cucumber::Model::TagSpec.3p
+@man man/man3p/Test::BDD::Cucumber::Parser.3p
+@man man/man3p/Test::BDD::Cucumber::StepContext.3p
+@man man/man3p/Test::BDD::Cucumber::StepFile.3p
+@man man/man3p/Test::BDD::Cucumber::Util.3p

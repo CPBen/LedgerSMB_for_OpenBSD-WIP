@@ -1,0 +1,6 @@
+Perl 5.8.0 misses subtraction and intersection of characters, which is
+described in Unicode Regular Expressions (UTS #18). This module provides
+a mimic syntax of character classes including subtraction and
+intersection, taking advantage of look-ahead assertions. The syntax
+provided by this module is considerably incompatible with the standard
+Perl's regex syntax.

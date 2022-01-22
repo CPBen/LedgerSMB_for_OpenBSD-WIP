@@ -1,0 +1,29 @@
+$OpenBSD$
+
+Index: t/02-dbexceptions.t
+--- t/02-dbexceptions.t.orig
++++ t/02-dbexceptions.t
+@@ -13,6 +13,7 @@ my $db = PGObject::Util::DBAdmin->new(
+    host     => 'localhost'       ,
+    port     => '5432'            ,
+    dbname   => 'pgobject_test_db',
++   host     => $ENV{MODPOSTGRESQL_TEST_PGHOST},
+ );
+ 
+ eval { $db->drop };
+@@ -80,6 +81,7 @@ $db = PGObject::Util::DBAdmin->new(
+    host     => 'localhost',
+    port     => '5432',
+    dbname   => 'pgobject_test_db',
++   host     => $ENV{MODPOSTGRESQL_TEST_PGHOST},
+ );
+ $backup_file = File::Temp->new->filename;
+ dies_ok { $db->backup_globals(file => $backup_file) } 'backup_globals dies with bad username';
+@@ -95,6 +97,7 @@ $db = PGObject::Util::DBAdmin->new(
+    host     => 'localhost'       ,
+    port     => '2'            ,
+    dbname   => 'pgobject_test_db',
++   host     => $ENV{MODPOSTGRESQL_TEST_PGHOST},
+ );
+ 
+ dies_ok { $db->connect } 'Could not connect';

@@ -1,0 +1,11 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Log/
+${P5SITE}/Log/Message/
+${P5SITE}/Log/Message.pm
+${P5SITE}/Log/Message/Config.pm
+${P5SITE}/Log/Message/Handlers.pm
+${P5SITE}/Log/Message/Item.pm
+@man man/man3p/Log::Message.3p
+@man man/man3p/Log::Message::Config.3p
+@man man/man3p/Log::Message::Handlers.3p
+@man man/man3p/Log::Message::Item.3p

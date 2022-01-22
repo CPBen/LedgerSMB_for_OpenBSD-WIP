@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Term/
+${P5SITE}/Term/UI/
+${P5SITE}/Term/UI.pm
+${P5SITE}/Term/UI/History.pm
+@man man/man3p/Term::UI.3p
+@man man/man3p/Term::UI::History.3p

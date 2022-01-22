@@ -1,0 +1,9 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Config/
+${P5SITE}/Config/INI/
+${P5SITE}/Config/INI.pm
+${P5SITE}/Config/INI/Reader.pm
+${P5SITE}/Config/INI/Writer.pm
+@man man/man3p/Config::INI.3p
+@man man/man3p/Config::INI::Reader.3p
+@man man/man3p/Config::INI::Writer.3p

@@ -1,0 +1,24 @@
+@comment $OpenBSD: PLIST,v$
+bin/scan-perl-prereqs
+bin/scan_prereqs
+${P5SITE}/Perl/
+${P5SITE}/Perl/PrereqScanner/
+${P5SITE}/Perl/PrereqScanner.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/
+${P5SITE}/Perl/PrereqScanner/Scanner.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/Aliased.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/Moose.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/POE.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/Perl5.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/Superclass.pm
+${P5SITE}/Perl/PrereqScanner/Scanner/TestMore.pm
+@man man/man1/scan-perl-prereqs.1
+@man man/man1/scan_prereqs.1
+@man man/man3p/Perl::PrereqScanner.3p
+@man man/man3p/Perl::PrereqScanner::Scanner.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::Aliased.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::Moose.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::POE.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::Perl5.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::Superclass.3p
+@man man/man3p/Perl::PrereqScanner::Scanner::TestMore.3p

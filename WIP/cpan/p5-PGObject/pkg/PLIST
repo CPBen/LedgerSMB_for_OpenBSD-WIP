@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/PGObject/
+${P5SITE}/PGObject.pm
+${P5SITE}/PGObject/Type/
+${P5SITE}/PGObject/Type/Registry.pm
+@man man/man3p/PGObject.3p
+@man man/man3p/PGObject::Type::Registry.3p

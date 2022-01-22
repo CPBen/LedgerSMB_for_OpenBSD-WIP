@@ -1,0 +1,5 @@
+use Version::Compare;
+
+if(&Version::Compare::version_compare('2.6.26','2.6.0') == 1) {
+print "2.6.26 is greater than 2.6.0\n";
+}

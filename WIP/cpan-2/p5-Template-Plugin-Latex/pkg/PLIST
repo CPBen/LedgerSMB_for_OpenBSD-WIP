@@ -1,0 +1,7 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Template/
+${P5SITE}/Template/Latex.pm
+${P5SITE}/Template/Plugin/
+${P5SITE}/Template/Plugin/Latex.pm
+@man man/man3p/Template::Latex.3p
+@man man/man3p/Template::Plugin::Latex.3p
